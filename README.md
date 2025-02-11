@@ -31,6 +31,6 @@ https://github.com/t5758/challenge-amigo-secreto
 - Navegador web: Chrome
 
 ## Autores: ✒️ ##
-Tatiana Solarte - t5758
+Juan de Jesus Ayala Corona
 
 
